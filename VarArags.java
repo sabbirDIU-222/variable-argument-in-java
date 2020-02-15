@@ -63,3 +63,25 @@ public class VarArags {
     }
     
 }
+
+                           ** output **
+                           
+                               
+                               run:
+30
+60
+370
+770
+BUILD SUCCESSFUL (total time: 0 seconds)
+ ****** 
+
+Rules for varargs:
+While using the varargs, you must follow some rules otherwise program code won't compile. The rules are as follows:
+
+** There can be only one variable argument in the method.
+** Variable argument (varargs) must be the last argument.
+
+
+
+
+
